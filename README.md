@@ -1,0 +1,2 @@
+# ineron_prctive
+perceptron_linear_and_or_gates
